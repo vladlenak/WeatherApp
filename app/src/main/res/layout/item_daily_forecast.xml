@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/llDailyForecastItem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingVertical="8dp">
+
+    <TextView
+        android:id="@+id/tvDay"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        tools:text="Monday" />
+
+    <ImageView
+        android:id="@+id/iconWeather"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="16dp"
+        android:contentDescription="@string/weather_icon"
+        android:src="@drawable/sun_cloud_angled_rain" />
+
+    <TextView
+        android:id="@+id/tvMaxTemp"
+        android:layout_width="48dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        tools:text="13°C" />
+
+    <TextView
+        android:id="@+id/tvMinTemp"
+        android:layout_width="48dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/gray"
+        android:textSize="16sp"
+        tools:text="10°C" />
+</LinearLayout>

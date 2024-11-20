@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="logo_w">Logo letter W</string>
+    <string name="logo_weather">The word "weather" from the logo</string>
+    <string name="cloud_icon">Icon of a cloud with rain and sun</string>
+    <string name="logo_app">The word "App" from the logo</string>
+
+    <string name="get_current_location">Get current location</string>
+    <string name="search_hint">Enter city name</string>
+    <string name="check">Check</string>
+
+    <string name="location_icon">Location icon</string>
+    <string name="search_icon">Search icon</string>
+    <string name="fortaleza">Fortaleza</string>
+    <string name="weather_icon">Weather icon</string>
+    <string name="precipitation_icon">Precipitation icon</string>
+    <string name="humidity_icon">Humidity icon</string>
+    <string name="wind_icon">Wind icon</string>
+    <string name="next_forecast">Next Forecast</string>
+    <string name="home">Home</string>
+    <string name="today">Today</string>
+
+</resources>
