@@ -14,7 +14,6 @@ WeatherApp is a modern Android application designed to provide accurate and up-t
 - **UI**: XML Layouts, Navigation Component, RecyclerView
 - **Architecture**: MVVM, StateFlow
 - **Multithreading**: Coroutines
-- **Dependency Injection**: Hilt
 - **Networking**: Retrofit, Glide
 - **Permissions**: Runtime permissions handling for location access
 
