@@ -11,8 +11,8 @@ WeatherApp is a modern Android application designed to provide accurate and up-t
 
 ## Stack
 - **Language**: Kotlin
-- **UI**: Jetpack Compose, Navigation Component, RecyclerView
-- **Architecture**: MVVM, Clean Architecture, StateFlow
+- **UI**: XML Layouts, Navigation Component, RecyclerView
+- **Architecture**: MVVM, StateFlow
 - **Multithreading**: Coroutines
 - **Dependency Injection**: Hilt
 - **Networking**: Retrofit, Glide
