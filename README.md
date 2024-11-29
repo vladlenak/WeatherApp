@@ -12,10 +12,9 @@ WeatherApp is a modern Android application designed to provide accurate and up-t
 ## Stack
 - **Language**: Kotlin
 - **UI**: XML Layouts, Navigation Component, RecyclerView
-- **Architecture**: MVVM, StateFlow
+- **Architecture**: Single Activity, MVVM, StateFlow
 - **Multithreading**: Coroutines
 - **Networking**: Retrofit, Glide
-- **Permissions**: Runtime permissions handling for location access
 
 ## How to Use
 1. Clone the repository to your local machine.
